@@ -1,13 +1,13 @@
-# Ayo.js
+# Tranny.js
 
 [![Build Status](https://travis-ci.org/ayojs/ayo.svg?style=flat&branch=master)](https://travis-ci.org/ayojs/ayo?branch=master)
 
-_(Note: Ayo.js is forked from [Node.js][]. Currently, a lot of the documentation
+_(Note: Tranny.js is forked from [Ayo.js][]. Currently, a lot of the documentation
 still points towards the Node.js repository.)_
 
-Ayo.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Ayo.js
+Tranny.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Tranny.js
 uses an event-driven, non-blocking I/O model that makes it lightweight and
-efficient. The Ayo.js package ecosystem, [npm][], is the largest ecosystem of
+efficient. The Tranny.js package ecosystem, [npm][], is the largest ecosystem of
 open source libraries in the world.
 
 Contributions, policies, and releases are managed under an
@@ -24,7 +24,7 @@ Contributions, policies, and releases are managed under an
     * [Nightly Releases](#nightly-releases)
     * [API Documentation](#api-documentation)
   * [Verifying Binaries](#verifying-binaries)
-* [Building Ayo.js](#building-ayojs)
+* [Building Tranny.js](#building-ayojs)
   * [Security](#security)
   * [Current Project Team Members](#current-project-team-members)
     * [CTC (Core Technical Committee)](#ctc-core-technical-committee)
@@ -43,7 +43,7 @@ _To be written_
 
 ## Release Types
 
-The Ayo.js project maintains multiple types of releases:
+The Tranny.js project maintains multiple types of releases:
 
 * **Current**: Released from active development branches of this repository,
   versioned by [SemVer](http://semver.org/) and signed by a member of the
@@ -78,10 +78,10 @@ _To be written_
 
 _To be written_
 
-## Building Ayo.js
+## Building Tranny.js
 
 See [BUILDING.md](BUILDING.md) for instructions on how to build
-Ayo.js from source. The document also contains a list of
+Tranny.js from source. The document also contains a list of
 officially supported platforms.
 
 ## Security
